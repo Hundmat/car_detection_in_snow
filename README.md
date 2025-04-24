@@ -1,1 +1,6 @@
-# -car_detection_in_snow
+## Group Members
+* Fredrik Beckman
+* Rickard Blind
+* Erik Segelström Djuric
+* Anton Follinger
+* Johannes Bergenholdt Lindholm
